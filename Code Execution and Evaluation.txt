@@ -1,0 +1,6 @@
+I have included a screenshot of the results of my code execution on my machine with 8GB of RAM and an i5 processor.
+From the screenshot, it can be seen that my script finishes executing just under the 3 minute mark at ~2 minutes and 45
+seconds. The results of my script indicate that the relevance feedback incorporated into the results changed the rank order
+of multiple documents. In my output for project 3, the highest ranked document for Query 1 was a XIE document and after
+incorporating feedback it is an NTY document. I'm not sure if the code will finish in under 5 minutes on the test machine,
+but it did on my own so I hope that will suffice for full credit. My code was executing using Python version 3.8.9 on VSCode.
